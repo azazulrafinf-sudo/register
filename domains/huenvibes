@@ -1,0 +1,11 @@
+{
+  "description": "My personal site",
+  "repo": "https://github.com/huenvibes/yourrepo",
+  "owner": {
+    "username": "yourusername",
+    "email": "azazulrafinf@email.com"
+  },
+  "record": {
+    "CNAME": "huenvibes.github.io"
+  }
+}
